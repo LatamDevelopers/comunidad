@@ -1,0 +1,10 @@
+{
+  "name": "latamdevelopers",
+  "version": "1.0.0",
+  "description": "Portafolios de Desarrolladores de Latinoamérica",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-json.mjs"
+  },
+  "license": "MIT"
+}
