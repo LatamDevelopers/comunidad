@@ -3,7 +3,7 @@
 > Una colección curada de portafolios y sitios personales de desarrolladores de Latinoamérica.
 > ¿Quieres añadir el tuyo? Lee la [guía de contribución](CONTRIBUTING.md) y envía tu Pull Request.
 
-📊 **Total: 0 portafolios** de 20 países
+📊 **Total: 1 portafolio** de 20 países
 
 ## Índice por País
 
@@ -93,6 +93,7 @@
 ## 🇵🇪 Perú
 
 <!-- Añade tu portafolio aquí en orden alfabético -->
+- [Yamil Ayma](https://yamilayma.github.io/) - Desarrollador de Software
 
 ## 🇵🇷 Puerto Rico
 
